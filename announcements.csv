@@ -1,6 +1,11 @@
 id,description,publishDate,expireDate,lockSeconds,remindable,enabled,minVersionCode,maxVersionCode,targetGroups,readAfter
-20260710-001,首发测试公告,2026-07-10T00:00:00Z,,3,true,true,200000,-1,user;developer;donor;admin,
-20260710-002,公告推送系统上线,2026-07-10T00:00:00Z,,0,true,true,200000,-1,user;developer;donor;admin,
-20260710-003,服务器维护通知,2026-07-10T00:00:00Z,,0,true,true,200000,-1,user;developer;donor;admin,
-20260710-004,反馈渠道更新,2026-07-10T00:00:00Z,,0,true,true,200000,-1,user;developer;donor;admin,
-20260710-005,夏日特惠活动预告,2026-07-10T00:00:00Z,,0,true,true,200000,-1,user;developer;donor;admin,
+test-001,锁定阅读测试,2026-07-01T00:00:00Z,,5,true,true,200000,-1,user;developer;donor;admin,
+test-002,不可提醒测试,2026-07-01T00:00:00Z,,0,false,true,200000,-1,user;developer;donor;admin,
+test-003,有过期日期测试,2026-07-01T00:00:00Z,2026-12-31T00:00:00Z,0,true,true,200000,-1,user;developer;donor;admin,
+test-004,readAfter联动测试,2026-07-01T00:00:00Z,,0,true,true,200000,-1,user;developer;donor;admin,test-005
+test-005,readAfter目标,2026-07-01T00:00:00Z,,0,true,true,200000,-1,user;developer;donor;admin,
+test-006,已过期,2026-07-01T00:00:00Z,2026-07-05T00:00:00Z,0,true,true,200000,-1,user;developer;donor;admin,
+test-007,未发布,2026-12-31T00:00:00Z,,0,true,true,200000,-1,user;developer;donor;admin,
+test-008,版本不匹配,2026-07-01T00:00:00Z,,0,true,true,999999,-1,user;developer;donor;admin,
+test-009,用户组不匹配,2026-07-01T00:00:00Z,,0,true,true,200000,-1,developer,
+test-010,已禁用,2026-07-01T00:00:00Z,,0,true,false,200000,-1,user;developer;donor;admin,
