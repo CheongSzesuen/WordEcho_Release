@@ -2,8 +2,6 @@
   "announcements": [
     {
       "id": "20260710-005",
-      "title": "夏日特惠活动预告",
-      "content": null,
       "contentUrl": "announcement/20260710-005.md",
       "publishDate": "2026-07-10T00:00:00Z",
       "expireDate": "2026-08-01T00:00:00Z",
@@ -19,8 +17,6 @@
     },
     {
       "id": "20260710-004",
-      "title": "反馈渠道更新",
-      "content": null,
       "contentUrl": "announcement/20260710-004.md",
       "publishDate": "2026-07-10T00:00:00Z",
       "expireDate": null,
@@ -35,8 +31,6 @@
     },
     {
       "id": "20260710-003",
-      "title": "服务器维护通知",
-      "content": null,
       "contentUrl": "announcement/20260710-003.md",
       "publishDate": "2026-07-10T00:00:00Z",
       "expireDate": "2026-07-13T00:00:00Z",
@@ -51,8 +45,6 @@
     },
     {
       "id": "20260710-002",
-      "title": "WordEcho 公告推送系统上线",
-      "content": null,
       "contentUrl": "announcement/20260710-002.md",
       "publishDate": "2026-07-10T00:00:00Z",
       "expireDate": null,
@@ -67,8 +59,6 @@
     },
     {
       "id": "20260710-001",
-      "title": "WordEcho 首发测试公告",
-      "content": null,
       "contentUrl": "announcement/20260710-001.md",
       "publishDate": "2026-07-10T00:00:00Z",
       "expireDate": null,
