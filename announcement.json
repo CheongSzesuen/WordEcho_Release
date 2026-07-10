@@ -1,6 +1,22 @@
 {
   "announcements": [
     {
+      "id": "20260710-002",
+      "title": "WordEcho 公告推送系统上线",
+      "content": null,
+      "contentUrl": "announcement/20260710-002.md",
+      "publishDate": "2026-07-10T00:00:00Z",
+      "expireDate": null,
+      "lockSeconds": 5,
+      "remindable": true,
+      "enabled": true,
+      "targetClient": {
+        "minVersionCode": 200000,
+        "maxVersionCode": -1
+      },
+      "targetGroups": ["user", "developer", "donor", "admin"]
+    },
+    {
       "id": "20260710-001",
       "title": "WordEcho 首发测试公告",
       "content": "欢迎使用 WordEcho！\n\n当前为测试版本，如有问题请反馈。",
