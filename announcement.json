@@ -14,7 +14,8 @@
         "minVersionCode": 200000,
         "maxVersionCode": -1
       },
-      "targetGroups": ["user", "developer", "donor", "admin"]
+      "targetGroups": ["user", "developer", "donor", "admin"],
+      "readAfter": ["20260710-003"]
     },
     {
       "id": "20260710-004",
