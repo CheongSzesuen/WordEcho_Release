@@ -1,0 +1,17 @@
+{
+  "versionCode": 260101,
+  "versionName": "26.1.1",
+  "updateDescription": "update/260101.md",
+  "downloadUrl": {
+    "title": "官方下载",
+    "url": "https://wordecho.app/download"
+  },
+  "forceUpdate": false,
+  "releaseDate": "2026-07-10T00:00:00Z",
+  "channel": "stable",
+  "targetClient": {
+    "minVersionCode": 200000,
+    "maxVersionCode": -1
+  },
+  "targetGroups": null
+}
