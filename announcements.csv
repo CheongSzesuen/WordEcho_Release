@@ -1,6 +1,6 @@
-id,description,publishDate,expireDate,lockSeconds,remindable,enabled,deactivatedDate,minVersionCode,maxVersionCode,targetGroups,readAfter
-20260710-001,WordEcho 首发测试公告,2026-07-10T00:00:00Z,,0,true,true,,200000,-1,user;developer;donor;admin,
-20260710-002,WordEcho 公告推送系统上线,2026-07-10T00:00:00Z,,5,true,true,,200000,-1,user;developer;donor;admin,
-20260710-003,服务器维护通知,2026-07-10T00:00:00Z,2026-07-13T00:00:00Z,5,true,true,,200000,-1,user;developer;donor;admin,
-20260710-004,反馈渠道更新,2026-07-10T00:00:00Z,,0,false,true,,200000,-1,user;developer;donor;admin,
-20260710-005,夏日特惠活动预告,2026-07-10T00:00:00Z,2026-08-01T00:00:00Z,0,true,true,,200000,-1,user;developer;donor;admin,20260710-003
+id,description,publishDate,expireDate,lockSeconds,remindable,enabled,minVersionCode,maxVersionCode,targetGroups,readAfter
+20260710-001,WordEcho 首发测试公告,2026-07-10T00:00:00Z,,0,true,true,200000,-1,user;developer;donor;admin,
+20260710-002,WordEcho 公告推送系统上线,2026-07-10T00:00:00Z,,5,true,true,200000,-1,user;developer;donor;admin,
+20260710-003,服务器维护通知,2026-07-10T00:00:00Z,2026-07-13T00:00:00Z,5,true,true,200000,-1,user;developer;donor;admin,
+20260710-004,反馈渠道更新,2026-07-10T00:00:00Z,,0,false,true,200000,-1,user;developer;donor;admin,
+20260710-005,夏日特惠活动预告,2026-07-10T00:00:00Z,2026-08-01T00:00:00Z,0,true,true,200000,-1,user;developer;donor;admin,20260710-003
