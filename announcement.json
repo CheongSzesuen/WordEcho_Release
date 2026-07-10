@@ -2,9 +2,9 @@
   "announcements": [
     {
       "id": "20260710-005",
-      "title": "✉️ 夏日特惠活动预告",
-      "content": "**夏日特惠**即将开启！\n\n7月15日至7月31日期间，所有赞助方案享受 **8折** 优惠。\n\n详情请关注[官网公告](https://wordecho.waijade.cn)",
-      "contentUrl": null,
+      "title": "夏日特惠活动预告",
+      "content": null,
+      "contentUrl": "announcement/20260710-005.md",
       "publishDate": "2026-07-10T00:00:00Z",
       "expireDate": "2026-08-01T00:00:00Z",
       "lockSeconds": 0,
@@ -20,8 +20,8 @@
     {
       "id": "20260710-004",
       "title": "反馈渠道更新",
-      "content": "反馈渠道已更新。\n\n现在可通过以下方式联系我们：\n- 在 App 内 `设置 → 关于` 页面提交\n- 发送邮件至 **support@waijade.cn**\n- 加入 QQ 群 **123456789**\n\n感谢你的支持！",
-      "contentUrl": null,
+      "content": null,
+      "contentUrl": "announcement/20260710-004.md",
       "publishDate": "2026-07-10T00:00:00Z",
       "expireDate": null,
       "lockSeconds": 0,
@@ -36,8 +36,8 @@
     {
       "id": "20260710-003",
       "title": "服务器维护通知",
-      "content": "服务器将于 **7月12日凌晨 2:00-4:00** 进行维护升级。\n\n维护期间登录和同步功能可能暂时不可用，请提前做好安排。\n\n`影响范围：所有用户`\n\n带来不便敬请谅解。",
-      "contentUrl": null,
+      "content": null,
+      "contentUrl": "announcement/20260710-003.md",
       "publishDate": "2026-07-10T00:00:00Z",
       "expireDate": "2026-07-13T00:00:00Z",
       "lockSeconds": 5,
@@ -68,8 +68,8 @@
     {
       "id": "20260710-001",
       "title": "WordEcho 首发测试公告",
-      "content": "欢迎使用 WordEcho！\n\n当前为测试版本，如有问题请反馈。",
-      "contentUrl": null,
+      "content": null,
+      "contentUrl": "announcement/20260710-001.md",
       "publishDate": "2026-07-10T00:00:00Z",
       "expireDate": null,
       "lockSeconds": 0,
