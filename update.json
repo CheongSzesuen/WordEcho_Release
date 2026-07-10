@@ -3,8 +3,8 @@
   "versionName": "26.1.1",
   "updateDescription": "update/260101.md",
   "downloadUrl": {
-    "title": "官方下载",
-    "url": "https://wordecho.app/download"
+    "title": "前往官网",
+    "url": "https://wordecho.waijade.cn"
   },
   "forceUpdate": false,
   "releaseDate": "2026-07-10T00:00:00Z",
@@ -13,5 +13,5 @@
     "minVersionCode": 200000,
     "maxVersionCode": -1
   },
-  "targetGroups": null
+  "targetGroups": ["user", "developer", "donor", "admin"]
 }
