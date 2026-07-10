@@ -1,2 +1,1 @@
 id,description,publishDate,expireDate,lockSeconds,remindable,enabled,minVersionCode,maxVersionCode,targetGroups,readAfter
-20260710-004,反馈渠道更新,2026-07-10T00:00:00Z,,0,false,true,200000,-1,user;developer;donor;admin,
