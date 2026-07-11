@@ -1,16 +1,22 @@
 {
-  "versionCode": 260102,
-  "versionName": "26.1.2",
+  "versionCode": 260103,
+  "versionName": "26.1.3",
   "downloadUrl": {
-    "title": "前往官网",
+    "title": "官网下载",
     "url": "https://wordecho.waijade.cn"
   },
-  "forceUpdate": false,
+  "forceUpdate": true,
   "releaseDate": "2026-07-10T00:00:00Z",
-  "channel": "stable",
+  "channel": "stable;beta",
   "targetClient": {
     "minVersionCode": 200000,
     "maxVersionCode": -1
   },
-  "targetGroups": ["user", "developer", "donor", "admin"]
+  "targetGroups": [
+    "user",
+    "developer",
+    "donor",
+    "admin"
+  ],
+  "sha": ""
 }
