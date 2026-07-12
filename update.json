@@ -5,7 +5,7 @@
     "title": "官网下载",
     "url": "https://wordecho.waijade.cn"
   },
-  "forceUpdate": true,
+  "forceUpdate": false,
   "releaseDate": "2026-07-10T00:00:00Z",
   "channel": "stable;beta",
   "targetClient": {
